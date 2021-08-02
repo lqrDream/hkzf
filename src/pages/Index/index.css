@@ -1,0 +1,10 @@
+.nav {
+  padding: 10px 0;
+}
+.nav .am-flexbox-item {
+  text-align: center;
+}
+
+.nav img {
+  width: 48px;
+}
